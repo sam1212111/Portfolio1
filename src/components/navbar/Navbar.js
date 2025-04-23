@@ -1,7 +1,7 @@
 import React from "react";
 import "../../styles/Navbar.css";
 import { FaHome, FaLaptop } from "react-icons/fa";
-import { BiBookContent, BiServer, BiEnvelope } from "react-icons/bi";
+import { BiBookContent,BiEnvelope } from "react-icons/bi";
 import { FiUser } from "react-icons/fi";
 import { Link } from "react-scroll";
 import NavLinks from "./NavLinks";
